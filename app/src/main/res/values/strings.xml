@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Android_laba9_vahrusheva</string>
+
+    <string name="game1">Судоку</string>
+    <string name="game1_description">Это игра с цифрами</string>
+
+    <string name="game2">3 в ряд</string>
+    <string name="game2_description">Это игра на совпадение цветов</string>
+
+    <string name="game3">Японский кроссворд</string>
+    <string name="game3_description">Это логическая игра с клетками</string>
+
+    <string name="game4">Майнкрафт</string>
+    <string name="game4_description">Это игра про строительство кубов</string>
+
+    <string name="game5">Король подземелья</string>
+    <string name="game5_description">Это стратегия про подземелья</string>
+
+    <string name="game6">Террария</string>
+    <string name="game6_description">Это приключение в двухмерном мире</string>
+
+    <string name="game7">Мой говорящий Том</string>
+    <string name="game7_description">Это игра с виртуальным питомцем</string>
 </resources>
